@@ -1,7 +1,13 @@
 .titulo {
     color:white;
+    margin-left: 1rem;
 }
 
 .contenedor {
     position:absolute;
+}
+
+.descripcion {
+    color: beige;
+    margin-left: 1rem;
 }
