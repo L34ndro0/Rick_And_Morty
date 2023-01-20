@@ -1,0 +1,6 @@
+.contenedor {
+    display: flex;
+    gap: 4rem;
+    justify-content: flex-end;
+    background-color: lightslategrey;
+}

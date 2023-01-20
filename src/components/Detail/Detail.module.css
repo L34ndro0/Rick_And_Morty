@@ -1,0 +1,14 @@
+.contenedor {
+    
+    position: absolute;
+    margin-left: 6rem;
+    color: cornflowerblue;
+    width: 100%;
+}
+
+.imagen {
+    left: 10px;
+    width: 30%;
+    position: absolute;
+    left: 50%;
+}
